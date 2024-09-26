@@ -1,8 +1,3 @@
-# Co2_Emission_and_GDP_Correlation_2004_2019 
-Oczywiście, oto przykładowy plik **README.md** do Twojego projektu analizy korelacji emisji CO2 i PKB:
-
----
-
 # Co2 Emission and GDP Correlation (2004-2019)
 
 ## Overview
