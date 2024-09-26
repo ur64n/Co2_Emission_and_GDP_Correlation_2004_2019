@@ -88,27 +88,5 @@ To install the required packages, you can use the following command:
 
   ![France CO2 Emission](charts/France.png)
 
-## Future Work
-
-1. **Expanding the Dataset:**
-   - Include more countries to generalize the findings globally.
-   - Add additional variables, such as energy consumption, renewable energy usage, and population data.
-
-2. **Advanced Statistical Analysis:**
-   - Conduct regression analysis to determine causality between CO2 emissions and GDP.
-   - Introduce machine learning models to predict future trends based on the historical data.
-
-3. **Automated ETL Pipeline:**
-   - Create an automated pipeline for data extraction, transformation, and loading (ETL) using tools like **Dagster** to handle large datasets dynamically.
-
-## How to Contribute
-
-Feel free to submit a pull request if you have any ideas or improvements for the project. All contributions are welcome, whether it's code improvements, new analyses, or visualization suggestions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 This `README.md` provides an overview, instructions for running the scripts, and a description of the project structure. Let me know if you'd like to customize or add more details!
